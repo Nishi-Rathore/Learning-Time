@@ -1,2 +1,4 @@
 # New Project
-This was created by local system
+This project was created from local system
+Created by Nishi Rathore.
+
